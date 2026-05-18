@@ -1,0 +1,3 @@
+Fichier : image456.tiff
+
+Un fichier image au format TIFF dont le contenu visuel n'a pas pu être analysé directement. Le format TIFF est couramment utilisé pour des images haute résolution ou des documents scannés. L'ambiance et les couleurs restent indéterminées sans ouverture du fichier.
