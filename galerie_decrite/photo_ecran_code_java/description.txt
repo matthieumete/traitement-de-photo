@@ -1,0 +1,3 @@
+Fichier : image23.jpeg
+
+Un écran d'ordinateur affichant un environnement de développement Java (IDE type IntelliJ IDEA) avec du code source visible en détail. Les couleurs dominantes sont le fond sombre bleu-noir de l'éditeur et le texte en blanc, jaune et vert. L'ambiance est technique et professionnelle, évoquant le travail de développement logiciel.
