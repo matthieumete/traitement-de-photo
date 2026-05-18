@@ -1,0 +1,3 @@
+Fichier : image371.png
+
+Image entièrement blanche sans contenu visible, pouvant représenter un fond transparent ou un élément graphique sur fond blanc avec très faible contraste. Les couleurs dominantes sont le blanc uni. L'ambiance est neutre et vide, indiquant probablement un placeholder ou un fichier image sans contenu perceptible.

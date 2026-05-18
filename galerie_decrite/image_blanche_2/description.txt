@@ -1,0 +1,3 @@
+Fichier : image317.png
+
+Image entièrement blanche sans contenu visible apparent, pouvant représenter un fond transparent ou un élément graphique invisible à faible contraste. Les couleurs dominantes sont uniquement le blanc. L'ambiance est vide et neutre, suggérant un placeholder ou un fichier image sans contenu significatif.
