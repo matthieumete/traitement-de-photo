@@ -1,0 +1,14 @@
+# Exclude raw source images (too large for git)
+photos_extraites/
+
+# Exclude binary images from galerie_decrite, keep only description.txt
+galerie_decrite/**/*.jpg
+galerie_decrite/**/*.jpeg
+galerie_decrite/**/*.png
+galerie_decrite/**/*.PNG
+galerie_decrite/**/*.tiff
+galerie_decrite/**/*.tif
+galerie_decrite/**/*.wdp
+galerie_decrite/**/*.gif
+galerie_decrite/**/*.webp
+galerie_decrite/**/*.bmp

@@ -1,0 +1,3 @@
+Fichier : image2.tiff
+
+Ce fichier est au format TIFF et n'a pas pu être visualisé directement. Il s'agit d'une image binaire dont le contenu visuel n'est pas accessible via cet outil. Le fichier est archivé tel quel dans le dossier de sortie.
